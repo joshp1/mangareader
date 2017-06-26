@@ -18,7 +18,7 @@
 
 			$data='SMFReader';
 
-			$pass='M01@rtinfan';
+			$pass='****';
 
 
 
