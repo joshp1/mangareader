@@ -8,3 +8,5 @@ I'm trying to make a manga/comic reader for comics I don't work on it alot but i
 - [ ] Use a database to store personal info
 - [ ] Need a area to store comics
 - [ ] Stored comics need to be in database
+
+*I've been thinking of making this into a flex app using apache flex*
