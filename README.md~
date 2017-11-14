@@ -11,3 +11,5 @@ I'm trying to make a manga/comic reader for comics I don't work on it alot but i
 
 *I've been thinking of making this into a flex app using apache flex*
 *This is going to be revamped in the future to use a flex or some other web interface*
+
+This is frustrating
